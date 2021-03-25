@@ -1,16 +1,16 @@
-		@media(max-width: 998rem)
+		@media(max-width: 998px)
 		{
 			html
 			{
-				font-size : 30%;
+				font-size : 50%;
 			}
 		}
 		
-		@media(max-width: 768rem)
+		@media(max-width: 768px)
 		{
 			html
 			{
-				font-size : 20%;
+				font-size : 40%;
 			}
 		}
 
@@ -29,17 +29,17 @@
 		h1
 		{
 			font-family: Serif;
-			font-size: 30rem;
+			font-size: 13rem;
 		}
 		h2
 		{
 			font-family: Serif;
-			font-size: 15rem;
+			font-size: 7rem;
 		}
 		h3
 		{
 			font-family: Serif;
-			font-size: 12rem;
+			font-size: 4rem;
 			font-weight: bold;
 			text-align: center;
 			color: white;
@@ -61,9 +61,9 @@
 			padding-right: 20rem;
 		*/
 			font-family: Serif;
-			font-size: 5rem;
+			font-size: 1.5rem;
 			font-weight: bold;
-			padding: 3% 8% 2% 8%;
+			padding: 4% 8% 4% 8%;
 		  	display: table;
 		  	margin: 0;
 		  	max-width: none;
@@ -72,36 +72,36 @@
 		}
 		#html
 		{
-			height: 10rem;
+			height: 5rem;
 		}
 		#css
 		{
-			height: 10rem;
+			height: 5rem;
 		}
 		#php
 		{
-			height: 8rem;
+			height: 4rem;
 		}
 		#sql
 		{
-			height: 25rem;
+			height: 10rem;
 		}
 
 		#c
 		{
-			height: 10rem;
+			height: 5rem;
 		}
 		#c1
 		{
-			height: 10rem;
+			height: 5rem;
 		}
 		#java
 		{
-			height: 8rem;
+			height: 5rem;
 		}
 		#py
 		{
-			height: 25rem;
+			height: 10rem;
 		}
 
 		#logo1
