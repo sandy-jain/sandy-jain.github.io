@@ -10,7 +10,7 @@
 		{
 			html
 			{
-				font-size : 25%;
+				font-size : 23%;
 			}
 		}
 
@@ -29,12 +29,12 @@
 		h1
 		{
 			font-family: Serif;
-			font-size: 30rem;
+			font-size: 32rem;
 		}
 		h2
 		{
 			font-family: Serif;
-			font-size: 15rem;
+			font-size: 20rem;
 		}
 		h3
 		{
@@ -82,6 +82,10 @@
 		{
 			height: 8rem;
 		}
+		#sql
+		{
+			height: 25rem;
+		}
 
 		#c
 		{
@@ -94,6 +98,10 @@
 		#java
 		{
 			height: 8rem;
+		}
+		#py
+		{
+			height: 25rem;
 		}
 
 		#logo1
@@ -112,13 +120,13 @@
 		td
 		{
 			 
-			 width : 33vw;
+			 width : 25vw;
 			 vertical-align: baseline;
 		}
 		th
 		{
 
-			 width:33vw;
+			 width:25vw;
 			
 		}
 		
