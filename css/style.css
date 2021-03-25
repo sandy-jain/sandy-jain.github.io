@@ -1,3 +1,18 @@
+		@media(max-width: 998rem)
+		{
+			html
+			{
+				font-size : 75%;
+			}
+		}
+		
+		@media(max-width: 768rem)
+		{
+			html
+			{
+				font-size : 65%;
+			}
+		}
 
 		body
 		{
@@ -5,8 +20,8 @@
 		}
 		#nav
 		{
-			position: sticky;
-			top: 0px;
+			position: fixed;
+			top: 0rem;
 			width: 100%;
 		}
 
@@ -14,88 +29,84 @@
 		h1
 		{
 			font-family: Serif;
-			font-size: 150px;
+			font-size: 10.5rem;
 		}
 		h2
 		{
 			font-family: Serif;
-			font-size: 55px;
+			font-size: 5.5rem;
 		}
 		h3
 		{
 			font-family: Serif;
-			font-size: 50px;
+			font-size: 4rem;
 			font-weight: bold;
 			text-align: center;
 			color: white;
 
 		}
-		
 		#home
 		{
 			text-align: center;
 			width: 100%;
 		}
-
 		section
-		{ /*
+		{/*
 			height: 100vh;
 			font-family: Serif;
-			font-size: 25px;
+			font-size: 25rem;
 			font-weight: bold;
-			padding-top: 20px;
-			padding-left: 20px;
-			padding-right: 20px;
+			padding-top: 20rem;
+			padding-left: 20rem;
+			padding-right: 20rem;
 		*/
-				
 			font-family: Serif;
-			font-size: 25px;
+			font-size: 1.5rem;
 			font-weight: bold;
-			padding: 1.5% 7%;
-			display: table;
-			 margin: 0;
-			 max-width: none;
-			 height: 100vh;
-			width : 100vw;
+			padding: 2.5% 7%;
+		  	display: table;
+		  	margin: 0;
+		  	max-width: none;
+		  	height: 100vh;
 
 		}
 		#html
 		{
-			height: 150px;
+			height: 10rem;
 		}
 		#css
 		{
-			height: 150px;
+			height: 10rem;
 		}
 		#php
 		{
-			height: 120px;
+			height: 8rem;
 		}
 
 		#c
 		{
-			height: 150px;
+			height: 10rem;
 		}
 		#c1
 		{
-			height: 150px;
+			height: 10rem;
 		}
 		#java
 		{
-			height: 120px;
+			height: 8rem;
 		}
 
 		#logo1
 		{
-			height: 100px;
+			height: 7rem;
 		}
 		#logo2
 		{
-			height: 120px;
+			height: 8rem;
 		}
 		#logo3
 		{
-			height: 80px;
+			height: 5rem;
 		}
 
 		td
