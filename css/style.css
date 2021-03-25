@@ -2,7 +2,7 @@
 		{
 			html
 			{
-				font-size : 50%;
+				font-size : 35%;
 			}
 		}
 		
@@ -10,7 +10,7 @@
 		{
 			html
 			{
-				font-size : 40%;
+				font-size : 25%;
 			}
 		}
 
@@ -29,17 +29,17 @@
 		h1
 		{
 			font-family: Serif;
-			font-size: 15rem;
+			font-size: 20rem;
 		}
 		h2
 		{
 			font-family: Serif;
-			font-size: 8rem;
+			font-size: 10rem;
 		}
 		h3
 		{
 			font-family: Serif;
-			font-size: 6rem;
+			font-size: 8rem;
 			font-weight: bold;
 			text-align: center;
 			color: white;
@@ -61,7 +61,7 @@
 			padding-right: 20rem;
 		*/
 			font-family: Serif;
-			font-size: 2.2rem;
+			font-size: 2.5rem;
 			font-weight: bold;
 			padding: 2.5% 7%;
 		  	display: table;
