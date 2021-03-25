@@ -29,17 +29,17 @@
 		h1
 		{
 			font-family: Serif;
-			font-size: 32rem;
+			font-size: 30rem;
 		}
 		h2
 		{
 			font-family: Serif;
-			font-size: 20rem;
+			font-size: 15rem;
 		}
 		h3
 		{
 			font-family: Serif;
-			font-size: 15rem;
+			font-size: 12rem;
 			font-weight: bold;
 			text-align: center;
 			color: white;
@@ -61,9 +61,9 @@
 			padding-right: 20rem;
 		*/
 			font-family: Serif;
-			font-size: 4.5rem;
+			font-size: 5rem;
 			font-weight: bold;
-			padding: 2% 7%;
+			padding: 3% 8% 2% 8%;
 		  	display: table;
 		  	margin: 0;
 		  	max-width: none;
